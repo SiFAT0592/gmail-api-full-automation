@@ -1,5 +1,3 @@
-### 🎨 সুন্দর README.md - সব একসাথে Copy করার জন্য
-markdown 
 
 Copy code
 <div align="center">
