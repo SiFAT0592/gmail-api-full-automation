@@ -1,16 +1,10 @@
-# HOW TO RUN
-git clone [python gmail_api_full_automation.py]
+<div align="center">
 
+# 🚀 Gmail API Auto Setup Tool
+[![Run in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EXAMPLE)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 
-
-
-
-
-# gmail-api-full-automation
-
-✅ 15 steps complete automation
-✅ Random app name generation
-✅ JSON auto-download &amp; save 
-✅ Error handling + retry 
-✅ Stealth mode (Google detect কম) 
-✅ Progress tracking [1/15], [2/15]...
+## 📦 One-Click Install & Run
+```bash
+# 👇 এই ২ লাইন copy করে Terminal এ paste করুন
+pip install selenium webdriver-manager requests && python gmail_api_full_automation.py
