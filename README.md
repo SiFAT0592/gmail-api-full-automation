@@ -15,244 +15,102 @@ Copy code
 </div>
 
 ---
+============================================================
+           🚀 GMAIL API AUTO SETUP TOOL
+============================================================
 
-## 🔥 **এক ক্লিকে চালান** *(Copy → Paste → Enter)*
+⭐ 15 STEPS FULLY AUTOMATED ⭐
+Gmail Login → API Enable → OAuth → JSON Download
 
-<div align="center">
+------------------------------------------------------------
+🔥 ONE-CLICK COMMANDS (Copy → Paste → Enter)
+------------------------------------------------------------
 
-### 🥇 **VS Code Terminal** *(সবচেয়ে সহজ)*
-```bash
+🥇 VS CODE TERMINAL (Recommended):
 pip install -r requirements.txt && python gmail_api_full_automation.py
-🥈 Internet থেকে সরাসরি
-bash
 
-Copy code
+🥈 CURL (Internet থেকে):
 curl -sSL https://raw.githubusercontent.com/yourusername/gmail-api-automator/main/gmail_api_full_automation.py -o gmail.py && pip install selenium webdriver-manager requests && python gmail.py
-🥉 Git Clone
-bash
 
-Copy code
+🥉 GIT CLONE:
 git clone https://github.com/yourusername/gmail-api-automator.git && cd gmail-api-automator && pip install -r requirements.txt && python gmail_api_full_automation.py
-</div> <hr>
-📊 সম্পূর্ণ Flow (15 Steps Auto)
-<div align="center">
-#️⃣
 
-Step
-
-Status
-
-Time
-
-1️⃣
-
-Gmail Login
-
-✅ Auto
-
-10s
-
-2️⃣
-
-Cloud Console
-
-✅ Auto
-
-5s
-
-3️⃣
-
-Country: USA
-
-✅ Auto
-
-5s
-
-4️⃣
-
-Gmail API Enable
-
-✅ **Auto
-
-10s
-
-5️⃣
-
-API & Services
-
-✅ Auto
-
-5s
-
-6️⃣
-
-App Name (Random)
-
-✅ **Auto
-
-3s
-
-7️⃣
-
-Support Email
-
-✅ Auto
-
-3s
-
-8️⃣
-
-Audience: External
-
-✅ **Auto
-
-5s
-
-9️⃣
-
-Contact Email
-
-✅ Auto
-
-3s
-
-🔟
-
-I Agree + Finish
-
-✅ **Auto
-
-8s
-
-1️⃣1️⃣
-
-Test User Add
-
-✅ **Auto
-
-5s
-
-1️⃣2️⃣
-
-Publish App
-
-✅ **Auto
-
-10s
-
-1️⃣3️⃣
-
-Desktop Client
-
-✅ **Auto
-
-8s
-
-1️⃣4️⃣
-
-JSON Download
-
-✅ **Auto
-
-5s
-
-1️⃣5️⃣
-
-Save File
-
-✅ **Auto
-
-2s
-
-⏱️ মোট সময়: ~2 মিনিট
-📁 আউটপুট: output/gmail_api_credentials.json
-
-</div> <hr>
-🎯 Quick Start Guide
-mermaid
-
-Copy code
-graph LR
-    A[1. Download Files] --> B[2. pip install -r requirements.txt]
-    B --> C[3. python gmail_api_full_automation.py]
-    C --> D[📧 Gmail দিন]
-    D --> E[🔑 App Password দিন]
-    E --> F[⚠️ CAPTCHA Solve]
-    F --> G[🎉 2min এ JSON Ready]
-    style G fill:#00D4AA
-Prerequisites (আগে করুন)
-
-Copy code
-🔐 App Password পান:
+------------------------------------------------------------
+📊 15 STEPS FLOW (সব Auto)
+------------------------------------------------------------
+1. Gmail Login              ✅ 10s
+2. Cloud Console             ✅ 5s
+3. Country: USA              ✅ 5s
+4. Gmail API Enable          ✅ 10s
+5. OAuth Consent Screen      ✅ 5s
+6. App Name (Random)         ✅ 3s
+7. Support Email             ✅ 3s
+8. Audience: External        ✅ 5s
+9. Contact Email             ✅ 3s
+10. I Agree + Finish         ✅ 8s
+11. Test User Add            ✅ 5s
+12. Publish App              ✅ 10s
+13. Create Desktop Client    ✅ 8s
+14. JSON Download            ✅ 5s
+15. Save File                ✅ 2s
+
+⏱️ TOTAL: ~2 Minutes
+📁 OUTPUT: output/gmail_api_credentials.json
+
+------------------------------------------------------------
+🎯 QUICK START (3 Steps)
+------------------------------------------------------------
+1. Download: gmail_api_full_automation.py + requirements.txt
+2. Terminal: pip install -r requirements.txt
+3. Run: python gmail_api_full_automation.py
+
+------------------------------------------------------------
+🔐 APP PASSWORD (গুরুত্বপূর্ণ)
+------------------------------------------------------------
+❌ Normal Password = কাজ করবে না!
+✅ App Password = Perfect!
+
+কিভাবে পাবেন:
 1. myaccount.google.com/apppasswords
-2. App: "Gmail API" → Generate
-3. 16-digit code copy করুন (abcd efgh ijkl mnop)
-<hr>
-📁 Project Structure
+2. App Name: "Gmail API"
+3. Generate → 16-digit Copy (abcd efgh ijkl mnop)
 
-Copy code
+------------------------------------------------------------
+📁 FILES STRUCTURE
+------------------------------------------------------------
 gmail-api-automator/
-├── 📄 gmail_api_full_automation.py     # Main Script ⭐
-├── 📄 requirements.txt                 # Dependencies
-├── 📄 setup.bat                       # Windows One-Click
-├── 📄 setup.sh                        # Linux/Mac
-├── 📁 output/                         # Auto Generated
-│   └── 📄 gmail_api_credentials.json  # ✅ Final File
-└── 📄 README.md                       # This File
-<hr>
-🎨 সুবিধাসমূহ
+├── gmail_api_full_automation.py    (Main ⭐)
+├── requirements.txt               (Install)
+├── setup.bat                      (Windows)
+├── setup.sh                       (Linux)
+├── output/                        (JSON File)
+└── README.txt                     (This)
+
+------------------------------------------------------------
+🎨 FEATURES
+------------------------------------------------------------
 ✅ 15 Steps 100% Auto
-✅ Random App Name
-✅ Auto JSON Save
-✅ Error Handling
-✅ Progress [1/15]
-✅ Stealth Mode
+✅ Random App Names
+✅ Auto JSON Download
+✅ Error Handling + Retry
+✅ Progress Tracker [1/15]
 ✅ VS Code Ready
-✅ Mobile Friendly
-<hr> <div align="center">
-🚀 Run Commands (Copy Ready)
-Platform
+✅ Windows/Linux/Mac
 
-Command
+------------------------------------------------------------
+🚀 RUN EXAMPLE
+------------------------------------------------------------
+📧 Gmail: yourmail@gmail.com
+🔑 App Password: abcd efgh ijkl mnop
+⚠️ CAPTCHA Solve (Manual)
+🎉 JSON Ready in output/ folder!
 
-VS Code
+------------------------------------------------------------
+📞 SUPPORT
+------------------------------------------------------------
+GitHub: yourusername/gmail-api-automator
+Issues: Report Bugs
+Stars: যদি Helpful হয়!
 
-pip install -r requirements.txt && python gmail_api_full_automation.py
-
-Windows
-
-setup.bat (Double Click)
-
-Linux/Mac
-
-./setup.sh
-
-Colab
-
-Colab
-
-</div> <hr>
-⚠️ গুরুত্বপূর্ণ নোট
-
-Copy code
-❌ Normal Password = কাজ করবে না
-✅ App Password = Perfect কাজ করবে
-
-📧 Input Format:
-Gmail: yourmail@gmail.com
-App Password: abcd efgh ijkl mnop
-<hr> <div align="center">
-⭐ Star দিন যদি Helpful হয়!
-Star History
-
-🇧🇩 Bangladeshi Developers এর জন্য তৈরি
-Made with ❤️ by Blackbox AI
-
-<br>
-GitHub issues
-GitHub stars
-
-</div>
-<br><br>
-
-<div align="center"> <a href="https://github.com/yourusername/gmail-api-automator/blob/main/gmail_api_full_automation.py"> <img src="https://img.shields.io/badge/View_Code-F44336?style=for-the-badge&logo=github&logoColor=white" alt="View Code"> </a> &nbsp;&nbsp; <a href="https://github.com/yourusername/gmail-api-automator/issues/new"> <img src="https://img.shields.io/badge/Report_Bug-FF9800?style=for-the-badge&logo=bugzilla&logoColor=white" alt="Report Bug"> </a> &nbsp;&nbsp; <a href="https://github.com/yourusername/gmail-api-automator/discussions"> <img src="https://img.shields.io/badge/Support-00D4AA?style=for-the-badge&logo=question&logoColor=white" alt="Get Support"> </a> </div> ```
+Made with ❤️ for Bangladeshi Developers 🇧🇩
+============================================================ign="center"> <a href="https://github.com/yourusername/gmail-api-automator/blob/main/gmail_api_full_automation.py"> <img src="https://img.shields.io/badge/View_Code-F44336?style=for-the-badge&logo=github&logoColor=white" alt="View Code"> </a> &nbsp;&nbsp; <a href="https://github.com/yourusername/gmail-api-automator/issues/new"> <img src="https://img.shields.io/badge/Report_Bug-FF9800?style=for-the-badge&logo=bugzilla&logoColor=white" alt="Report Bug"> </a> &nbsp;&nbsp; <a href="https://github.com/yourusername/gmail-api-automator/discussions"> <img src="https://img.shields.io/badge/Support-00D4AA?style=for-the-badge&logo=question&logoColor=white" alt="Get Support"> </a> </div> ```
