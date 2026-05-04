@@ -1,5 +1,5 @@
 # HOW TO RUN
-*python gmail_api_full_automation.py*
+git clone [python gmail_api_full_automation.py]
 
 
 
