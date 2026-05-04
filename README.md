@@ -36,133 +36,37 @@ git clone https://github.com/SiFAT0592/gmail-api-automator.git && cd gmail-api-a
 </div> <hr>
 
 <div align="center">
-#️⃣
+#️⃣                 Step                  Status           Time
 
-Step
+1️⃣                 Gmail Login           ✅ Auto          10s
 
-Status
+2️⃣                 Cloud Console         ✅ Auto          5s
 
-Time
+3️⃣                 Country: USA          ✅ Auto          5s
 
-1️⃣
+4️⃣                 Gmail API Enable      ✅ **Auto        10s
 
-Gmail Login
+5️⃣                 API & Services        ✅ Auto          5s
 
-✅ Auto
+6️⃣                 App Name (Random)     ✅ **Auto        3s
 
-10s
+7️⃣                 Support Email         ✅ Auto          3s
 
-2️⃣
+8️⃣                 Audience: External    ✅ **Auto        5s
 
-Cloud Console
+9️⃣                 Contact Email         ✅ Auto          3s
 
-✅ Auto
+🔟                 I Agree + Finish      ✅ **Auto        8s
 
-5s
+1️⃣1️⃣                 Test User Add       ✅ **Auto        5s
 
-3️⃣
+1️⃣2️⃣                 Publish App         ✅ **Auto       10s
 
-Country: USA
+1️⃣3️⃣                 Desktop Client      ✅ **Auto       8s
 
-✅ Auto
+1️⃣4️⃣                 JSON Download       ✅ **Auto       5s
 
-5s
-
-4️⃣
-
-Gmail API Enable
-
-✅ **Auto
-
-10s
-
-5️⃣
-
-API & Services
-
-✅ Auto
-
-5s
-
-6️⃣
-
-App Name (Random)
-
-✅ **Auto
-
-3s
-
-7️⃣
-
-Support Email
-
-✅ Auto
-
-3s
-
-8️⃣
-
-Audience: External
-
-✅ **Auto
-
-5s
-
-9️⃣
-
-Contact Email
-
-✅ Auto
-
-3s
-
-🔟
-
-I Agree + Finish
-
-✅ **Auto
-
-8s
-
-1️⃣1️⃣
-
-Test User Add
-
-✅ **Auto
-
-5s
-
-1️⃣2️⃣
-
-Publish App
-
-✅ **Auto
-
-10s
-
-1️⃣3️⃣
-
-Desktop Client
-
-✅ **Auto
-
-8s
-
-1️⃣4️⃣
-
-JSON Download
-
-✅ **Auto
-
-5s
-
-1️⃣5️⃣
-
-Save File
-
-✅ **Auto
-
-2s
+1️⃣5️⃣                 Save File           ✅ **Auto       2s
 
 ⏱️ মোট সময়: ~2 মিনিট
 📁 আউটপুট: output/gmail_api_credentials.json
