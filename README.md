@@ -35,7 +35,6 @@ git clone https://github.com/SiFAT0592/gmail-api-automator.git && cd gmail-api-a
 
 </div> <hr>
 
-📊 সম্পূর্ণ Flow (15 Steps Auto)
 <div align="center">
 #️⃣
 
@@ -169,7 +168,6 @@ Save File
 📁 আউটপুট: output/gmail_api_credentials.json
 
 </div> <hr>
-
 🎯 Quick Start Guide
 graph LR
     A[1. Download Files] --> B[2. pip install -r requirements.txt]
