@@ -23,7 +23,7 @@ bash
 pip install -r requirements.txt && python gmail_api_full_automation.py
 
 🥈 Internet থেকে সরাসরি
-
+ 
 bash
 curl -sSL https://raw.githubusercontent.com/SiFAT0592/gmail-api-automator/main/gmail_api_full_automation.py -o gmail.py && pip install selenium webdriver-manager requests && python gmail.py
 </div> <hr>
