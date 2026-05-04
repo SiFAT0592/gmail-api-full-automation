@@ -7,7 +7,4 @@
 ## 📦 One-Click Install & Run
 ```bash
 pip install selenium webdriver-manager requests && python gmail_api_full_automation.py
-
-
-# Complete One-Click Setup
-git clone https://github.com/yourusername/gmail-api-automator.git && cd gmail-api-automator && pip install -r requirements.txt && python gmail_api_full_automation.py
+</div> <div align="center">
