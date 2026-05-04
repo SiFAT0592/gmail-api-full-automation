@@ -7,5 +7,3 @@
 ## 📦 One-Click Install & Run
 ```bash
 pip install selenium webdriver-manager requests && python gmail_api_full_automation.py
-
-```bash
