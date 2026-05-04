@@ -170,3 +170,25 @@ Features যা আছে:
 ✅ Mobile Responsive
 ✅ Star History
 ✅ Copy Buttons
+
+
+
+
+
+
+🎯 Quick Start Guide
+
+🔐 App Password পান:
+1. myaccount.google.com/apppasswords
+2. App: "Gmail API" → Generate
+3. 16-digit code copy করুন (abcd efgh ijkl mnop)
+
+graph LR
+    A[1. Download Files] --> B[2. pip install -r requirements.txt]
+    B --> C[3. python gmail_api_full_automation.py]
+    C --> D[📧 Gmail দিন]
+    D --> E[🔑 App Password দিন]
+    E --> F[⚠️ CAPTCHA Solve]
+    F --> G[🎉 2min এ JSON Ready]
+    style G fill:#00D4AA
+<hr>
