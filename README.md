@@ -6,5 +6,4 @@
 
 ## 📦 One-Click Install & Run
 ```bash
-# 👇 এই ২ লাইন copy করে Terminal এ paste করুন
 pip install selenium webdriver-manager requests && python gmail_api_full_automation.py
